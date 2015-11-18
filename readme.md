@@ -10,7 +10,7 @@ Laratrix is accessible, yet powerful, providing powerful tools needed for large,
 
 Documentation for the entire Kit can be found on the [Laratrix documentation](http://github.com/mytrix-technology/laratrix).
 
-### Contributing To Laravel
+### Contributing To Laratrix
 
 **All issues and pull requests should be filed on the [laratrix](http://github.com/mytrix-technology/laratrix) repository.**
 
